@@ -1,0 +1,181 @@
+#1# Revising the Select Query I
+Sol :
+
+Select * 
+from City
+where population>100000 and CountryCode='USA'
+
+---------------------------------------------------------------------------------
+#2# Revising the Select Query II
+Sol:
+
+select count(CITY)-count(distinct CITY)
+from STATION
+
+---------------------------------------------------------------------------------
+#3# Select All
+sol:
+
+select * from City
+---------------------------------------------------------------------------------
+#4# Select By ID
+sol:
+
+select * from city 
+where id =1661
+---------------------------------------------------------------------------------
+#5# Japanese Cities' Attributes
+sol:
+
+select * from city 
+where COUNTRYCODE  ='JPN' 
+---------------------------------------------------------------------------------
+#6# Japanese Cities' Names
+sol:
+ 
+select name 
+from city 
+where COUNTRYCODE='JPN'
+---------------------------------------------------------------------------------
+#7# Weather Observation Station 1
+sol:
+
+Select  city,state from station
+---------------------------------------------------------------------------------
+#8# Weather Observation Station 2
+sol:
+
+select round(sum(lat_n), 2) as 'lat', round(sum(long_w), 2) as 'long'
+from station;
+---------------------------------------------------------------------------------
+#9# Weather Observation Station 3
+sol:
+
+select distinct city from station
+where id%2=0;
+---------------------------------------------------------------------------------
+#10# Weather Observation Station 4
+sol:
+
+select count(city) - count(distinct city)
+from station
+---------------------------------------------------------------------------------
+#11# Weather Observation Station 5
+sol:
+
+select top(1) city ,len(city)
+from station
+where  len(city)=(select min(len(city))from station)
+order by city
+
+select top(1) city,len(city)
+from station
+where len(city)=(select max(len(city))from station)
+order by city
+ 
+---------------------------------------------------------------------------------
+#12# Weather Observation Station 6
+sol:
+
+Select distinct city from station
+where city like 'a%'or city like 'e%' or city like 'i%'
+or city like 'o%' or city like 'u%' 
+---------------------------------------------------------------------------------
+#13# Weather Observation Station 7
+sol:
+
+ Select distinct city from station
+where city like '%a'or city like '%e' or city like '%i'
+or city like '%o' or city like '%u' 
+---------------------------------------------------------------------------------
+#14# Weather Observation Station 8
+sol:
+
+Select distinct city from station
+where (city like 'a%'or city like 'e%' or city like 'i%'
+       or city like 'o%' or city like 'u%' )
+and
+ (city like '%a'or city like '%e' or city like '%i'
+  or city like '%o' or city like '%u' )
+---------------------------------------------------------------------------------
+#15# Weather Observation Station 9
+sol:
+
+Select distinct city from station
+where city not like 'a%'and city not like 'e%' and city not like 'i%'
+and city not like 'o%' and city not like 'u%' 
+---------------------------------------------------------------------------------
+#16# Weather Observation Station 10
+sol:
+
+ Select distinct city from station
+where city not like '%a'and city not like '%e' and city not like '%i'
+and city not like '%o' and city not like '%u' 
+---------------------------------------------------------------------------------
+#17# Weather Observation Station 11
+sol:
+
+Select distinct city from station
+where (city not like 'a%'and city not like 'e%' and city not like 'i%'
+and city not like 'o%' and city not like 'u%' )
+or
+( city not like '%a'and city not like '%e' and city not like '%i'
+and city not like '%o' and city not like '%u' )
+---------------------------------------------------------------------------------
+#18# Weather Observation Station 12
+sol:
+
+Select distinct city from station
+where (city not like 'a%'and city not like 'e%' and city not like 'i%'
+and city not like 'o%' and city not like 'u%' )
+and
+( city not like '%a'and city not like '%e' and city not like '%i'
+and city not like '%o' and city not like '%u' )
+---------------------------------------------------------------------------------
+#19# Weather Observation Station 13
+sol:
+
+select Truncate(sum(Lat_n),4) from station
+where Lat_n between 38.7880 and 137.2345
+---------------------------------------------------------------------------------
+#20# Weather Observation Station 14
+sol:
+
+Select Truncate(max(Lat_n),4) from station 
+where lat_n <137.2345
+---------------------------------------------------------------------------------
+#21# Weather Observation Station 15
+sol:
+
+select round(long_w,4) from station 
+where lat_n = (Select max(Lat_n) from station 
+where lat_n <137.2345 )
+---------------------------------------------------------------------------------
+#22# Weather Observation Station 16
+sol:
+
+Select round(min(lat_n),4) from station
+where lat_n >38.7780
+---------------------------------------------------------------------------------
+#23# Weather Observation Station 17
+sol:
+
+select round(long_w,4) from station
+where lat_n = (Select min(lat_n) from station
+where lat_n >38.7780)
+---------------------------------------------------------------------------------
+#24# Weather Observation Station 18
+sol:
+
+
+---------------------------------------------------------------------------------
+#25# Weather Observation Station 19
+sol:
+
+
+---------------------------------------------------------------------------------
+#26# Weather Observation Station 20
+sol:
+
+
+---------------------------------------------------------------------------------
