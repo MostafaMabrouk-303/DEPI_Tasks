@@ -1,0 +1,14 @@
+D:\CSharp\CSharpTask\CSharpTask\bin\Debug\net8.0\CSharpTask.exe
+D:\CSharp\CSharpTask\CSharpTask\bin\Debug\net8.0\CSharpTask.deps.json
+D:\CSharp\CSharpTask\CSharpTask\bin\Debug\net8.0\CSharpTask.runtimeconfig.json
+D:\CSharp\CSharpTask\CSharpTask\bin\Debug\net8.0\CSharpTask.dll
+D:\CSharp\CSharpTask\CSharpTask\bin\Debug\net8.0\CSharpTask.pdb
+D:\CSharp\CSharpTask\CSharpTask\obj\Debug\net8.0\CSharpTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CSharpTask\CSharpTask\obj\Debug\net8.0\CSharpTask.AssemblyInfoInputs.cache
+D:\CSharp\CSharpTask\CSharpTask\obj\Debug\net8.0\CSharpTask.AssemblyInfo.cs
+D:\CSharp\CSharpTask\CSharpTask\obj\Debug\net8.0\CSharpTask.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTask\CSharpTask\obj\Debug\net8.0\CSharpTask.dll
+D:\CSharp\CSharpTask\CSharpTask\obj\Debug\net8.0\refint\CSharpTask.dll
+D:\CSharp\CSharpTask\CSharpTask\obj\Debug\net8.0\CSharpTask.pdb
+D:\CSharp\CSharpTask\CSharpTask\obj\Debug\net8.0\CSharpTask.genruntimeconfig.cache
+D:\CSharp\CSharpTask\CSharpTask\obj\Debug\net8.0\ref\CSharpTask.dll
