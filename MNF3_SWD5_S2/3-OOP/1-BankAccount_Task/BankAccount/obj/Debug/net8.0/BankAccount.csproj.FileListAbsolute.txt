@@ -1,0 +1,14 @@
+D:\CSharp\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.exe
+D:\CSharp\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.deps.json
+D:\CSharp\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+D:\CSharp\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.dll
+D:\CSharp\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.pdb
+D:\CSharp\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+D:\CSharp\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+D:\CSharp\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\CSharp\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.dll
+D:\CSharp\BankAccount\BankAccount\obj\Debug\net8.0\refint\BankAccount.dll
+D:\CSharp\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.pdb
+D:\CSharp\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+D:\CSharp\BankAccount\BankAccount\obj\Debug\net8.0\ref\BankAccount.dll
