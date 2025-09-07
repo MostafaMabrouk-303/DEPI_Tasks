@@ -1,0 +1,14 @@
+D:\CSharp\Depi_Linq\SolofLinq_2\bin\Debug\net8.0\SolofLinq_2.exe
+D:\CSharp\Depi_Linq\SolofLinq_2\bin\Debug\net8.0\SolofLinq_2.deps.json
+D:\CSharp\Depi_Linq\SolofLinq_2\bin\Debug\net8.0\SolofLinq_2.runtimeconfig.json
+D:\CSharp\Depi_Linq\SolofLinq_2\bin\Debug\net8.0\SolofLinq_2.dll
+D:\CSharp\Depi_Linq\SolofLinq_2\bin\Debug\net8.0\SolofLinq_2.pdb
+D:\CSharp\Depi_Linq\SolofLinq_2\obj\Debug\net8.0\SolofLinq_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Depi_Linq\SolofLinq_2\obj\Debug\net8.0\SolofLinq_2.AssemblyInfoInputs.cache
+D:\CSharp\Depi_Linq\SolofLinq_2\obj\Debug\net8.0\SolofLinq_2.AssemblyInfo.cs
+D:\CSharp\Depi_Linq\SolofLinq_2\obj\Debug\net8.0\SolofLinq_2.csproj.CoreCompileInputs.cache
+D:\CSharp\Depi_Linq\SolofLinq_2\obj\Debug\net8.0\SolofLinq_2.dll
+D:\CSharp\Depi_Linq\SolofLinq_2\obj\Debug\net8.0\refint\SolofLinq_2.dll
+D:\CSharp\Depi_Linq\SolofLinq_2\obj\Debug\net8.0\SolofLinq_2.pdb
+D:\CSharp\Depi_Linq\SolofLinq_2\obj\Debug\net8.0\SolofLinq_2.genruntimeconfig.cache
+D:\CSharp\Depi_Linq\SolofLinq_2\obj\Debug\net8.0\ref\SolofLinq_2.dll
