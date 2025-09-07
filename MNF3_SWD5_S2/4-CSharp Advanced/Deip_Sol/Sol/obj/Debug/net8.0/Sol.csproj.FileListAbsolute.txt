@@ -1,0 +1,14 @@
+D:\CSharp\Deip_Sol\Sol\bin\Debug\net8.0\Sol.exe
+D:\CSharp\Deip_Sol\Sol\bin\Debug\net8.0\Sol.deps.json
+D:\CSharp\Deip_Sol\Sol\bin\Debug\net8.0\Sol.runtimeconfig.json
+D:\CSharp\Deip_Sol\Sol\bin\Debug\net8.0\Sol.dll
+D:\CSharp\Deip_Sol\Sol\bin\Debug\net8.0\Sol.pdb
+D:\CSharp\Deip_Sol\Sol\obj\Debug\net8.0\Sol.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Deip_Sol\Sol\obj\Debug\net8.0\Sol.AssemblyInfoInputs.cache
+D:\CSharp\Deip_Sol\Sol\obj\Debug\net8.0\Sol.AssemblyInfo.cs
+D:\CSharp\Deip_Sol\Sol\obj\Debug\net8.0\Sol.csproj.CoreCompileInputs.cache
+D:\CSharp\Deip_Sol\Sol\obj\Debug\net8.0\Sol.dll
+D:\CSharp\Deip_Sol\Sol\obj\Debug\net8.0\refint\Sol.dll
+D:\CSharp\Deip_Sol\Sol\obj\Debug\net8.0\Sol.pdb
+D:\CSharp\Deip_Sol\Sol\obj\Debug\net8.0\Sol.genruntimeconfig.cache
+D:\CSharp\Deip_Sol\Sol\obj\Debug\net8.0\ref\Sol.dll
